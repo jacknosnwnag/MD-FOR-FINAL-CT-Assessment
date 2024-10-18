@@ -18,7 +18,11 @@
 ##### Young chidren learn best through entertaining and interactive teaching methods such as games. Through this, they can learn hand eye coordination and thinking on the spot. A platformer game where players are being chased will help children learn how to think on the spot and improve their hand - eye coordination while having fun.
 
 # Skill development 
-
+##### To develop the skills neccesary for this task, I will follow tutorials for 2D on Unity Learn.
+# Inputs
+- WASD = Movement keys (W for jump) 
+- Click = Select
+    
 
 
 

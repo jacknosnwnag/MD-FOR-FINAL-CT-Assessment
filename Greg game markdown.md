@@ -20,9 +20,16 @@
 # Skill development 
 ##### To develop the skills neccesary for this task, I will follow tutorials for 2D on Unity Learn.
 # Inputs
-- WASD = Movement keys (W for jump) 
-- Click = Select
-    
+##### - WASD = Movement keys (W for jump) 
+##### - Click = Select
+# Processing 
+##### The program will check for collisions and calculate the new position of the player 
+# Outputs 
+##### The game will display the characters position, a welcome screen, a game over message, and displays what level they are on.
+# Transmission
+##### The game will require sending speed score data to an online leaderboard.
+# Storage
+##### The game will store the user's fastest time locally as a high score on the welcome screen.
 
 
 

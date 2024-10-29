@@ -30,8 +30,32 @@
 ##### The game will require sending speed score data to an online leaderboard.
 # Storage
 ##### The game will store the user's fastest time locally as a high score on the welcome screen.
+# User interaction
+##### The user will interact with the game through the keyboard and mouse 
+# User actions
+##### The user will be able to move the character around and start and end the game 
+# Core actions of my project
+##### The core  action of my project will be movement
+# Scoring and Feedback
+##### The game will have a high score for how fast the player can complete the game that will save when the player completes the game.
+# Level progression
+##### Users pass through the levels by reaching the end of the obstacle course without dying.
+# Saving and Loading Data
+##### High score time will be saved locally on the users device
 
 
+# Non functional requirements
+
+# Performance Requirements
+##### The game should load in less than a minute and the player shouldnt be able to notice any inout lag through the player movement.
+# Usability Requirements
+##### ??????????????????????/
+# Compatibility Requirements
+##### The game should be compatible with windows devices 
+# Scalability Requirements
+##### The game should be able to include additonal characters, levels and obstacles without slowing down performance at all
+# Security Requirements
+##### All user data will be secure and encrypted
 
 
 

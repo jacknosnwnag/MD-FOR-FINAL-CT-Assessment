@@ -55,7 +55,17 @@
 # Scalability Requirements
 ##### The game should be able to include additonal characters, levels and obstacles without slowing down performance at all
 # Security Requirements
-##### All user data will be secure and encrypted
-
-
-
+##### All user data will be secure and encrypted    
+# Reliabilty and Avability
+##### The system should be avaliable 100% of the time with no errors
+# Consideration of Social and Ethical Issues
+##### Equity: The quality of being fair 
+##### Accessibility: The quality of being easy to obtain or use. My project will be able to be used by people of all abiltes as all it requires is being able to hit the keys on the keyboard and to opearte a mouse.
+# Privacy and Data Protection
+##### Consideration: My project will collect user's fastest time and store it locally so it is secure.
+# Fairness and Representation
+##### My project avoids sterotypes and bias because it has no human characters
+# Mental and Emotional Well-Being   
+##### My game promotes a positive experience through uplifting sound effects and positve visual effects.
+# Cultural Sensitivities
+##### My game is respectful to all cultures as everything as a simple appearence and no references to other races and countires are made

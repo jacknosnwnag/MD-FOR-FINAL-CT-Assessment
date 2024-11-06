@@ -45,11 +45,11 @@
 
 
 # Non functional requirements
-
+##### The games aesthetics should look good and engaging for the player to look at, , and should be fast and smooth to play.
 # Performance Requirements
 ##### The game should load in less than a minute and the player shouldnt be able to notice any inout lag through the player movement.
 # Usability Requirements
-##### ??????????????????????/
+##### The program should be responsive the user inputs and should be fast and easily acccesible.
 # Compatibility Requirements
 ##### The game should be compatible with windows devices 
 # Scalability Requirements

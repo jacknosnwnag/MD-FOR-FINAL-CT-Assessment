@@ -10,7 +10,7 @@
 # Brainstorming : 1. A bus thats trying to get to the end of the level, similar to the part A unity game
 #                 2. Perhaps an entity training to chase the bus, or main character
 #                 3. Obstacles that the bus has to go over 
-#                 4. 
+#                   
 # Identifying a Need: 
 ##### Helping young children improve hand eye coordination through an entertaining, interactive and heart racing game that can promote focus and thinking on the spot.
 
@@ -42,8 +42,13 @@
 ##### Users pass through the levels by reaching the end of the obstacle course without dying.
 # Saving and Loading Data
 ##### High score time will be saved locally on the users device
-
-
+# Functional Requirements
+### Player controls
+##### Player should be able to control the bus with WASD.
+### Progression 
+##### Player should be able to move on to the next level after completeting the previous one.
+### Game over conditions
+##### Player should die when triggering a game over condition, such as getting caught or hitting a spike
 # Non functional requirements
 ##### The games aesthetics should look good and engaging for the player to look at, , and should be fast and smooth to play.
 # Performance Requirements

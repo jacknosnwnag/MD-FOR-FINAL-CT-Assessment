@@ -20,7 +20,7 @@
 # Skill development 
 ##### To develop the skills neccesary for this task, I will follow tutorials for 2D on Unity Learn.
 # Inputs
-##### - WASD = Movement keys (W for jump) 
+##### - WAD = Movement keys (W for jump) 
 ##### - Click = Select
 # Processing 
 ##### The program will check for collisions and calculate the new position of the player 
@@ -44,7 +44,7 @@
 ##### High score time will be saved locally on the users device
 # Functional Requirements
 ### Player controls
-##### Player should be able to control the bus with WASD.
+##### Player should be able to control the bus with WAD.
 ### Progression 
 ##### Player should be able to move on to the next level after completeting the previous one.
 ### Game over conditions

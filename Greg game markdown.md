@@ -7,10 +7,10 @@
 
 
 
-# Brainstorming : 1. A bus thats trying to get to the end of the level, similar to the part A unity game
-#                 2. Perhaps an entity training to chase the bus, or main character
-#                 3. Obstacles that the bus has to go over 
-#                   
+
+
+
+
 # Identifying a Need: 
 ##### Helping young children improve hand eye coordination through an entertaining, interactive and heart racing game that can promote focus and thinking on the spot.
 
@@ -21,7 +21,7 @@
 ##### To develop the skills neccesary for this task, I will follow tutorials for 2D on Unity Learn.
 # Inputs
 ##### - WAD = Movement keys (W for jump) 
-##### - Click = Select
+
 # Processing 
 ##### The program will check for collisions and calculate the new position of the player 
 # Outputs 
@@ -45,10 +45,6 @@
 # Functional Requirements
 ### Player controls
 ##### Player should be able to control the bus with WAD.
-### Progression 
-##### Player should be able to move on to the next level after completeting the previous one.
-### Game over conditions
-##### Player should die when triggering a game over condition, such as getting caught or hitting a spike
 # Non functional requirements
 ##### The games aesthetics should look good and engaging for the player to look at, , and should be fast and smooth to play.
 # Performance Requirements
@@ -75,3 +71,9 @@
 # Cultural Sensitivities
 ##### My game is respectful to all cultures as everything as a simple appearence and no references to other races and countires are made
 # Gantt Chart![alt text](<Gantt Chart.png>)
+# Movement Flowchart
+##### ![alt text](Movement_flowchart.png)
+# Movement Pseduocode![alt text](<Whole game storyboard-1.png>)
+# Whole game storyboard!
+##### ![alt text](<Whole game storyboard.png>)
+# 

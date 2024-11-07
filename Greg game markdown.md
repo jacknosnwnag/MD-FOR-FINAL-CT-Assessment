@@ -1,9 +1,9 @@
-| Positive              | Negative | Interesting |
-| :---------------- | :------: | ----: |
-| Helps children think on the spot        |   May cause unneccesary stress   | Helps children entertain themselves |
-|      Helps children develop hand eye coordiantion      |   Can cause confusion   | Can help children be more creative |
-| Helps children problem solve   |  Can take a long time to complete   | Gives children an escape from reality |
-
+| Existing Game      | Positive                                  | Negative                       | Interesting                          |
+| :----------------- | :--------------------------------------- | :----------------------------- | :------------------------------------ |
+| Donkey Kong  ![alt text](DonkeyKong_TA.png)          | Introduces a new element of time and being chased          | Can cause unnecessary stress | Opens a new gap in the market for 2d chasing games  |
+| Choppy Orc ![alt text](choppy-orc.png)     | Helps children develop hand-eye coordination | Can cause confusion            | Helps children develop eye hand coordination | |
+| Geometry Dash  ![alt text](<Geometry dash.png>)           | Helps children react fast to obstacles           | Can take a long time to complete and learn | Gives children a sense of urgency as they cannot stop the movement of the character |
+    
 
 
 
@@ -74,3 +74,4 @@
 ##### My game promotes a positive experience through uplifting sound effects and positve visual effects.
 # Cultural Sensitivities
 ##### My game is respectful to all cultures as everything as a simple appearence and no references to other races and countires are made
+# Gantt Chart![alt text](<Gantt Chart.png>)
